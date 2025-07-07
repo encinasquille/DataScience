@@ -1,0 +1,109 @@
+zoneamento: Identifica a classificação geral de zoneamento
+		
+       A	Agricultura
+       C	Comercial
+       FV	Aldeia residencial flutuante
+       I	Industrial
+       RH	Alta densidade residencial
+       RL	Baixa densidade residencial
+       RP	Parque residencial de baixa densidade 
+       RM	Média densidade residencial
+	
+
+tam_terreno: Tamanho do terreno em metros quadrados (square feet)
+
+forma_terreno: Forma geral da propriedade
+
+       Reg	Regular	
+       IR1	Ligeiramente irregular
+       IR2	Moderadamente irregular
+       IR3	Irregular
+       
+
+qualidade_geral: Nota para o material e acabamento utilizado na casa.
+
+       10	Excelente
+       9	Ótimo
+       8	Muito Bom
+       7	Bom
+       6	Acima da média
+       5	Médio
+       4	Abaixo da média
+       3	Justo
+       2	Pobre
+       1	Muito Pobre
+	
+condicao: Nota da condição geral da casa
+
+       10     Excelente
+       9      Ótimo
+       8      Muito Bom
+       7      Bom
+       6      Acima da média
+       5      Médio
+       4      Abaixo da média
+       3      Justo
+       2      Pobre
+       1      Muito Pobre
+		
+
+ano_construcao: Data original da construção
+
+qualidade_aquecedor: Qualidade e Condição do aquecimento
+
+       Ex	Excelente
+       Gd	Bom
+       TA	Média/Típico
+       Fa	Justo
+       Po	Pobre
+		
+
+ar_condicionado: Tem central de ar condicionado?
+
+       N	Não
+       Y	Sim
+		
+
+tam_primeiro_andar: Metros quadrados do primeiro andar (square feet)
+ 
+tam_segundo_andar: Metros quadrados do segundo andar (square feet)
+
+tam_salar_estar: Metros quadrados da sala de estar (square feet)
+
+qtde_quartos: Quantidade de quartos
+
+qualidade_cozinha: Qualidade da cozinha
+
+       Ex     Excelente
+       Gd     Bom
+       TA     Média/Típico
+       Fa     Justo
+       Po     Pobre
+       	
+
+qtde_banheiros: Total de banheiros
+
+qtde_comodos: Total de comodos (não inclue os banheiros)
+
+qtde_lareiras: Numeros de lareiras
+
+qtde_carros_garagem: Tamanho da garagem na capacidade do carro
+
+tam_garagem: Tamanho da garagem em metros quadrados (square feet)
+
+tam_piscina: Tamanho da piscina em metros quadrado (square feet)
+
+qualidade_piscina: Qualidade da piscina
+		
+       Ex     Excelente
+       Gd     Bom
+       TA     Média/Típico
+       Fa     Justo
+       NotAv     Nenhuma piscinal disponível
+		
+
+mes_venda: Mês da Venda (MM)
+
+ano_venda: Ano da Venda (YYYY)
+
+preco: Valor da venda em reais
