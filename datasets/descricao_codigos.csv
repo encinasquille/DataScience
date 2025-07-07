@@ -1,0 +1,31 @@
+codigo;descricao
+NA ;Nenhuma
+Fa;Justo
+TA;Média/Típico
+Gd;Bom
+Ex;Excelente
+Po;Pobre
+N;Não
+Y;Sim
+IR1;Ligeiramente irregular
+IR2;Moderadamente irregular
+IR3;Irregular
+Reg;Regular
+A;Agricultura
+C;Comercial
+FV;Aldeia residencial flutuante
+I;Industrial
+RH;Alta densidade residencial
+RL;Baixa densidade residencial
+RP;Parque residencial de baixa densidade
+RM;Média densidade residencial
+10;Excelente
+9;Ótimo
+8;Muito Bom
+7;Bom
+6;Acima da média
+5;Médio
+4;Abaixo da média
+3;Justo
+2;Pobre
+1;Muito Pobre
