@@ -18,8 +18,4 @@ These images are used to illustrate:
 - Validation methods (cross-validation, holdout)
 - Machine learning workflows
 
----
 
-## 🧠 Naming Convention
-
-Files follow a simple naming structure:
