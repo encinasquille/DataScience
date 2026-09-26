@@ -1,0 +1,684 @@
+ID_IMOVEL	BAIRRO	TIPO_IMOVEL	METRAGEM	VAGAS_GARAGEM	VALOR_VENDA	INTENSIDADE_LUZ	FLUXO_VEICULOS	COMERCIOS_RAIO_500M
+1	Recanto Mar	Casa	140	1	805000	Pouca	Baixo	1
+2	Recanto Mar	Casa	224	3	1670000	Pouca	Baixo	3
+3	Jardim Sol	Apartamento	170	1	1190000	Pouca	Intermediario	15
+4	Vila Verde	Casa	120	1	731000	Pouca	Baixo	15
+5	Santa Rosa	Casa	170	2	1030000	Nenhuma	Baixo	10
+6	Recanto Mar	Casa	168	2	1220000	Muita	Intermediario	3
+7	Santa Rosa	Casa	130	1	712000	Muita	Baixo	7
+8	Recanto Mar	Apartamento	180	2	1310000	Pouca	Baixo	3
+9	Recanto Mar	Apartamento	160	2	1220000	Pouca	Intermediario	14
+10	Vila Verde	Casa	144	2	1040000	Pouca	Intenso	20
+11	Santa Rosa	Casa	156	2	1090000	Pouca	Baixo	28
+12	Recanto Mar	Apartamento	196	3	1350000	Pouca	Baixo	16
+13	Jardim Sol	Apartamento	82	1	618000	Muita	Intenso	26
+14	Santa Rosa	Casa	248	3	1610000	Muita	Intermediario	18
+15	Recanto Mar	Apartamento	380	5	2850000	Muita	Baixo	8
+16	Jardim Sol	Casa	190	2	1250000	Muita	Intermediario	12
+17	Recanto Mar	Apartamento	100	2	833000	Muita	Intenso	6
+18	Santa Rosa	Casa	270	3	1530000	Pouca	Baixo	18
+19	Vila Verde	Casa	120	1	806000	Pouca	Intenso	28
+20	Jardim Sol	Apartamento	290	4	2290000	Muita		11
+21	Jardim Sol	Apartamento	60	0	393000	Nenhuma	Baixo	15
+22	Vila Verde	Casa	116	1	676000	Muita	Intermediario	
+23	Jardim Sol	Apartamento	70	1	502000	Muita	Intermediario	6
+24	Vila Verde	Casa	152	3	1070000	Muita	Intermediario	13
+25	Recanto Mar	Casa	350	4	2060000	Pouca	Intenso	1
+26	Jardim Sol	Apartamento	140	2	961000	Pouca	Intenso	19
+27	Santa Rosa	Casa	244	2	1380000	Muita	Baixo	27
+28	Recanto Mar	Casa	200	2	1210000	Pouca	Intermediario	22
+29	Jardim Sol	Apartamento	150	2	976000	Muita	Baixo	
+30	Vila Verde	Casa	124	2	854000	Muita	Intenso	14
+31	Jardim Sol	Casa	212	2	1360000	Muita	Intenso	
+32	Vila Verde	Casa	150	2	939000	Muita	Intermediario	22
+33	Santa Rosa	Casa	226	3	1470000	Nenhuma		26
+34	Jardim Sol	Apartamento	48	0	339000	Muita	Baixo	8
+35	Jardim Sol	Casa	134	2	869000	Pouca		19
+36	Recanto Mar	Casa	245	2	1500000	Pouca	Baixo	6
+37	Recanto Mar	Apartamento	270	2	2200000	Pouca	Baixo	16
+38	Santa Rosa	Casa	326	3	1870000	Pouca	Baixo	18
+39	Recanto Mar	Apartamento	160	2	1130000	Muita	Intermediario	12
+40	Jardim Sol	Casa	160	2	1120000	Muita	Intenso	7
+41	Jardim Sol	Casa	98	1	604000	Pouca	Baixo	27
+42	Jardim Sol	Apartamento	190	3	1370000	Muita	Baixo	9
+43	Vila Verde	Casa	154	2	937000	Pouca		19
+44	Santa Rosa	Casa	100	1	600000	Pouca	Intermediario	15
+45	Recanto Mar	Apartamento	50	0	394000	Nenhuma	Intenso	
+46	Vila Verde	Casa	150	2	997000	Muita	Baixo	26
+47	Santa Rosa	Casa	254	3	1430000	Pouca	Baixo	21
+48	Vila Verde	Casa	112	1	692000	Muita	Baixo	23
+49	Vila Verde	Casa	178	2	1160000	Pouca	Baixo	
+50	Santa Rosa	Casa	430	5	2650000	Muita	Baixo	
+51	Recanto Mar	Casa	390	4	2290000	Pouca	Intermediario	14
+52	Jardim Sol	Casa	130	1	808000	Pouca	Intermediario	9
+53	Recanto Mar	Casa	190	2	1390000	Pouca		8
+54	Jardim Sol	Apartamento	94	1	629000	Pouca	Intermediario	18
+55	Vila Verde	Casa	176	2	1030000	Muita	Intermediario	21
+56	Vila Verde	Casa	130	1	744000	Pouca		23
+57	Vila Verde	Casa	170	3	1120000	Muita	Intenso	24
+58	Jardim Sol	Apartamento	160	2	1060000	Muita	Intermediario	15
+59	Santa Rosa	Casa	360	4	2170000	Pouca	Baixo	12
+60	Vila Verde	Casa	138	1	868000	Pouca	Baixo	27
+61	Jardim Sol	Apartamento	100	2	838000	Pouca	Baixo	13
+62	Recanto Mar	Apartamento	122	2	1020000	Muita	Intermediario	13
+63	Vila Verde	Casa	160	3	1060000	Nenhuma	Intermediario	
+64	Recanto Mar	Casa	170	2	1360000	Nenhuma	Baixo	11
+65	Jardim Sol	Apartamento	154	2	1090000	Muita	Intermediario	9
+66	Santa Rosa	Casa	240	2	1790000	Muita	Intermediario	30
+67	Jardim Sol	Apartamento	80	1	659000	Pouca	Intermediario	1
+68	Santa Rosa	Casa	330	4	2010000	Muita	Baixo	31
+69	Vila Verde	Casa	100	1	588000	Pouca	Intermediario	30
+70	Recanto Mar	Apartamento	62	1	505000	Pouca	Intermediario	13
+71	Santa Rosa	Casa	220	3	1260000	Muita	Baixo	22
+72	Vila Verde	Casa	110	2	687000	Muita		20
+73	Vila Verde	Casa	135	2	879000	Muita		
+74	Vila Verde	Casa	170	2	1010000	Muita	Baixo	17
+75	Recanto Mar	Casa	184	2	1290000	Muita		8
+76	Santa Rosa	Casa	164	2	1070000	Muita	Baixo	22
+77	Jardim Sol	Casa	220	2	1280000	Muita	Intermediario	10
+78	Recanto Mar	Casa	272	3	1730000	Pouca	Intermediario	8
+79	Recanto Mar	Casa	168	2	1220000	Muita	Baixo	15
+80	Vila Verde	Casa	122	1	761000	Muita	Intermediario	15
+81	Jardim Sol	Apartamento	130	1	868000	Nenhuma	Intermediario	
+82	Santa Rosa	Casa	138	1	833000	Muita	Baixo	13
+83	Jardim Sol	Apartamento	80	1	584000	Muita		7
+84	Recanto Mar	Apartamento	270	2	2190000	Pouca	Intermediario	3
+85	Jardim Sol	Apartamento	98	2	732000	Pouca	Intenso	19
+86	Jardim Sol	Casa	160	2	1150000	Pouca	Intenso	11
+87	Jardim Sol	Apartamento	166	2	1230000	Muita	Baixo	14
+88	Jardim Sol	Apartamento	112	1	719000	Pouca	Intenso	2
+89	Recanto Mar	Casa	130	1	856000	Nenhuma	Baixo	7
+90	Jardim Sol	Apartamento	136	2	896000	Nenhuma	Intermediario	
+91	Santa Rosa	Casa	380	4	2500000	Pouca	Intermediario	7
+92	Recanto Mar	Apartamento	168	2	1440000	Muita	Intenso	15
+93	Jardim Sol	Apartamento	180	2	1160000	Muita	Intermediario	2
+94	Santa Rosa	Casa	230	3	1560000	Muita	Intenso	
+95	Santa Rosa	Casa	578	6	3700000	Pouca	Baixo	11
+96	Vila Verde	Apartamento	74	1	463000	Pouca	Intermediario	25
+97	Recanto Mar	Casa	200	2	1230000	Muita	Baixo	7
+98	Recanto Mar	Casa	150	2	1160000	Muita		6
+99	Vila Verde	Casa	108	1	709000	Muita	Baixo	22
+100	Vila Verde	Casa	134	1	843000	Muita	Intermediario	25
+101	Santa Rosa	Casa	260	3	1520000	Pouca	Baixo	18
+102	Jardim Sol	Casa	270	3	1930000	Pouca	Intermediario	10
+103	Jardim Sol	Apartamento	156	2	1190000	Muita	Baixo	9
+104	Recanto Mar	Casa	290	4	1850000	Pouca	Intermediario	8
+105	Recanto Mar	Apartamento	114	2	1060000	Pouca	Intenso	17
+106	Vila Verde	Casa	124	1	767000	Muita	Intermediario	
+107	Jardim Sol	Apartamento	60	1	416000	Muita	Intenso	8
+108	Jardim Sol	Apartamento	66	1	496000	Pouca	Intermediario	7
+109	Vila Verde	Casa	138	2	1100000	Pouca	Intermediario	
+110	Jardim Sol	Apartamento	90	1	565000	Muita		18
+111	Jardim Sol	Apartamento	140	2	975000	Pouca	Intenso	14
+112	Jardim Sol	Casa	180	3	1400000	Pouca	Intenso	13
+113	Vila Verde	Casa	110	1	682000	Muita		22
+114	Vila Verde	Casa	116	1	734000	Muita		19
+115	Recanto Mar	Casa	220	3	1350000	Muita	Intermediario	10
+115	Recanto Mar	Casa	220	3	1350000	Muita	Intermediario	10
+116	Santa Rosa	Casa	151	2	893000	Pouca	Baixo	18
+117	Jardim Sol	Apartamento	80	1	594000	Pouca	Intenso	13
+118	Vila Verde	Apartamento	60	1	368000	Nenhuma		31
+119	Jardim Sol	Casa	220	3	1350000	Pouca	Baixo	10
+120	Recanto Mar	Casa	270	3	1860000	Pouca		20
+121	Vila Verde	Casa	138	2	972000	Muita	Baixo	20
+122	Vila Verde	Casa	160	2	1020000	Pouca	Intenso	22
+123	Santa Rosa	Apartamento	120	1	687000	Muita	Baixo	
+124	Santa Rosa	Casa	400	4	2440000	Pouca	Baixo	19
+125	Vila Verde	Casa	120	2	782000	Muita	Intermediario	
+126	Jardim Sol	Apartamento	56	1	433000	Muita	Intenso	8
+127	Santa Rosa	Casa	250	3	1450000	Pouca	Intenso	9
+128	Jardim Sol	Apartamento	74	1	529000	Pouca	Intermediario	10
+129	Recanto Mar	Casa	202	3	1330000	Pouca	Intermediario	
+130	Recanto Mar	Casa	240	2	1470000	Pouca	Intermediario	15
+131	Recanto Mar	Apartamento	72	1	489000	Pouca	Intermediario	5
+132	Recanto Mar	Apartamento	50	0	357000	Muita	Intermediario	10
+133	Recanto Mar	Apartamento	64	1	459000	Nenhuma	Baixo	
+134	Jardim Sol	Casa	110	1	772000	Pouca	Intenso	9
+135	Jardim Sol	Apartamento	70	1	527000	Muita	Baixo	
+136	Santa Rosa	Casa	162	2	1010000	Pouca	Baixo	21
+137	Jardim Sol	Apartamento	60	1	424000	Muita	Intenso	9
+138	Santa Rosa	Casa	280	3	1660000	Muita	Baixo	16
+139	Vila Verde	Casa	150	2	944000	Muita	Intermediario	17
+140	Recanto Mar	Apartamento	230	2	1670000	Muita	Intermediario	12
+141	Jardim Sol	Apartamento	74	1	521000	Muita	Intermediario	
+142	Vila Verde	Apartamento	80	1	487000	Pouca	Intermediario	23
+143	Santa Rosa	Casa	324	3	1840000	Muita	Intermediario	8
+144	Jardim Sol	Apartamento	180	2	1190000	Muita	Intenso	
+145	Vila Verde	Casa	148	2	1220000	Nenhuma	Intermediario	17
+146	Santa Rosa	Casa	234	3	1380000	Muita	Baixo	11
+147	Vila Verde	Casa	145	1	952000	Nenhuma	Baixo	27
+148	Vila Verde	Casa	150	2	917000	Pouca	Intenso	20
+149	Recanto Mar	Apartamento	172	1	1140000	Nenhuma	Intermediario	20
+150	Jardim Sol	Casa	95	1	580000	Muita	Intermediario	
+151	Recanto Mar	Apartamento	100	2	875000	Muita		14
+152	Vila Verde	Casa	118	2	832000	Pouca	Baixo	
+153	Jardim Sol	Apartamento	100	1	670000	Pouca		21
+154	Vila Verde	Casa	130	1	838000	Pouca	Intermediario	23
+155	Recanto Mar	Casa	270	4	1640000	Muita	Intermediario	4
+156	Vila Verde	Apartamento	100	1	721000	Muita	Intermediario	27
+157	Vila Verde	Apartamento	60	1	397000	Muita	Intermediario	24
+158	Santa Rosa	Apartamento	92	1	553000	Pouca	Baixo	11
+159	Vila Verde	Casa	168	2	985000	Muita	Intenso	23
+160	Jardim Sol	Apartamento	180	2	1270000	Muita		15
+161	Santa Rosa	Casa	264	4	1570000	Pouca	Baixo	
+162	Recanto Mar	Casa	218	2	1450000	Muita	Intermediario	2
+163	Recanto Mar	Apartamento	180	3	1350000	Pouca	Baixo	7
+164	Santa Rosa	Casa	306	3	2210000	Nenhuma	Baixo	16
+165	Recanto Mar	Apartamento	290	3	2260000	Muita	Baixo	8
+166	Vila Verde	Apartamento	100	1	631000	Nenhuma		24
+167	Jardim Sol	Apartamento	120	1	768000	Muita	Intermediario	15
+168	Vila Verde	Casa	130	2	792000	Muita	Intermediario	28
+169	Santa Rosa	Apartamento	90	1	577000	Muita		8
+170	Vila Verde	Casa	114	2	811000	Muita	Intermediario	
+171	Jardim Sol	Casa	174	3	1080000	Muita	Baixo	8
+172	Recanto Mar	Apartamento	110	1	746000	Pouca		16
+173	Recanto Mar	Casa	235	3	1550000	Pouca	Intermediario	3
+174	Recanto Mar	Apartamento	100	2	816000	Muita	Intermediario	17
+175	Jardim Sol	Apartamento	70	1	477000	Muita	Intermediario	
+176	Recanto Mar	Apartamento	76	1	593000	Muita	Intermediario	5
+177	Santa Rosa	Casa	220	3	1300000	Muita	Baixo	6
+178	Santa Rosa	Casa	354	5	2390000	Nenhuma	Baixo	21
+179	Recanto Mar	Casa	284	4	1840000	Pouca	Baixo	11
+180	Jardim Sol	Apartamento	50	0	331000	Muita	Intermediario	12
+181	Jardim Sol	Casa	230	3	1640000	Muita	Intenso	13
+182	Vila Verde	Apartamento	60	0	345000	Muita	Intermediario	19
+183	Jardim Sol	Apartamento	70	1	493000	Muita	Baixo	4
+184	Santa Rosa	Casa	458	5	2710000	Nenhuma		23
+185	Jardim Sol	Apartamento	48	1	381000	Muita	Intenso	
+186	Santa Rosa	Casa	142	1	866000	Pouca	Baixo	
+187	Vila Verde	Apartamento	60	0	366000	Muita	Intermediario	22
+188	Santa Rosa	Casa	190	3	1150000	Muita	Baixo	17
+189	Vila Verde	Casa	122	1	711000	Pouca	Intermediario	16
+190	Jardim Sol	Apartamento	60	0	455000	Muita		
+191	Santa Rosa	Casa	139	2	1050000	Pouca		10
+192	Recanto Mar	Casa	204	2	1490000	Pouca	Intermediario	9
+193	Jardim Sol	Casa	278	3	1980000	Muita	Intenso	21
+194	Recanto Mar	Casa	216	3	1570000	Pouca	Intermediario	8
+195	Santa Rosa	Casa	450	5	2580000	Muita	Baixo	14
+196	Vila Verde	Apartamento	140	1	925000	Muita	Intenso	
+197	Vila Verde	Apartamento	60	1	393000	Pouca	Intenso	19
+198	Santa Rosa	Casa	210	2	1260000	Muita	Baixo	
+199	Vila Verde	Casa	130	1	834000	Pouca	Intermediario	
+200	Recanto Mar	Casa	242	2	1820000	Muita	Baixo	8
+201	Jardim Sol	Apartamento	160	2	1000000	Muita	Intenso	6
+202	Vila Verde	Casa	128	1	788000	Muita	Intenso	
+203	Jardim Sol	Apartamento	70	1	416000	Pouca		7
+204	Recanto Mar	Casa	274	3	2160000	Pouca	Baixo	
+205	Jardim Sol	Apartamento	174	2	1180000	Pouca	Baixo	5
+206	Jardim Sol	Casa	130	2	959000	Muita	Intermediario	1
+207	Vila Verde	Apartamento	54	0	423000	Nenhuma	Intermediario	20
+208	Recanto Mar	Casa	150	2	1120000	Muita	Intermediario	5
+209	Santa Rosa	Casa	230	3	1480000	Muita	Intermediario	19
+210	Recanto Mar	Casa	210	2	1520000	Muita	Baixo	12
+211	Vila Verde	Apartamento	90	1	564000	Muita	Baixo	
+212	Santa Rosa	Casa	272	3	1770000	Nenhuma		8
+213	Vila Verde	Casa	170	2	1110000	Muita	Intermediario	23
+214	Jardim Sol	Apartamento	80	1	516000	Muita	Intermediario	13
+215	Jardim Sol	Apartamento	94	1	556000	Muita	Intermediario	9
+216	Recanto Mar	Apartamento	220	3	1880000	Nenhuma	Intenso	5
+217	Santa Rosa	Casa	230	3	1400000	Muita	Baixo	21
+218	Vila Verde	Casa	106	1	671000	Pouca	Intermediario	20
+219	Jardim Sol	Casa	270	3	1660000	Muita	Intermediario	10
+220	Jardim Sol	Casa	300	3	2330000	Muita	Baixo	
+221	Jardim Sol	Apartamento	210	2	1500000	Muita	Intenso	
+222	Jardim Sol	Casa	220	3	1400000	Muita	Baixo	8
+223	Recanto Mar	Apartamento	172	2	1370000	Nenhuma		
+224	Recanto Mar	Apartamento	140	2	1020000	Pouca	Intermediario	7
+225	Jardim Sol	Apartamento	52	0	319000	Pouca	Intermediario	13
+226	Recanto Mar	Casa	240	3	1440000	Muita		
+227	Santa Rosa	Casa	310	3	1920000	Nenhuma	Intermediario	
+228	Jardim Sol	Apartamento	100	2	611000	Pouca	Intenso	10
+229	Vila Verde	Casa	174	2	1220000	Pouca		
+230	Recanto Mar	Casa	228	3	1650000	Pouca	Baixo	1
+231	Recanto Mar	Casa	240	3	1450000	Nenhuma	Intermediario	4
+232	Jardim Sol	Casa	162	3	917000	Pouca	Intermediario	
+233	Recanto Mar	Casa	168	3	1100000	Muita	Baixo	9
+234	Santa Rosa	Casa	98	1	578000	Muita	Baixo	16
+235	Santa Rosa	Casa	284	3	1750000	Pouca	Baixo	11
+236	Jardim Sol	Apartamento	60	0	372000	Muita	Intermediario	11
+237	Jardim Sol	Casa	150	2	990000	Nenhuma	Intenso	14
+238	Jardim Sol	Apartamento	84	1	546000	Muita	Baixo	
+239	Santa Rosa	Casa	380	4	2510000	Muita		16
+240	Vila Verde	Apartamento	58	1	433000	Pouca	Intermediario	10
+241	Recanto Mar	Casa	250	3	1670000	Muita	Intenso	0
+242	Santa Rosa	Casa	245	3	1500000	Muita	Intermediario	18
+243	Vila Verde	Casa	160	2	1060000	Pouca	Intermediario	16
+244	Recanto Mar	Casa	192	2	1220000	Muita		1
+245	Jardim Sol	Apartamento	280	3	2230000	Pouca	Intenso	16
+246	Vila Verde	Casa	180	3	1080000	Pouca	Baixo	13
+247	Jardim Sol	Apartamento	210	2	1510000	Muita	Intenso	10
+248	Jardim Sol	Apartamento	64	1	458000	Pouca	Intermediario	5
+249	Vila Verde	Casa	124	1	756000	Muita	Baixo	
+250	Vila Verde	Apartamento	60	1	404000	Muita	Baixo	
+251	Recanto Mar	Apartamento	66	1	477000	Pouca	Baixo	7
+252	Jardim Sol	Apartamento	190	2	1190000	Muita	Baixo	10
+253	Recanto Mar	Apartamento	230	3	1670000	Pouca	Intenso	8
+254	Santa Rosa	Casa	312	3	1910000	Muita	Baixo	
+255	Recanto Mar	Apartamento	50	1	424000	Muita	Intermediario	4
+256	Santa Rosa	Casa	150	2	950000	Pouca	Baixo	14
+257	Jardim Sol	Apartamento	80	1	640000	Muita	Intermediario	9
+258	Santa Rosa	Casa	410	5	2760000	Muita	Intermediario	23
+259	Recanto Mar	Casa	170	2	1030000	Muita	Intermediario	14
+260	Vila Verde	Casa	114	1	731000	Nenhuma	Intenso	19
+261	Vila Verde	Casa	152	2	902000	Muita	Intenso	21
+262	Vila Verde	Apartamento	58	1	371000	Muita	Intermediario	
+263	Recanto Mar	Casa	190	2	1280000	Muita	Intenso	6
+264	Vila Verde	Casa	210	2	1270000	Nenhuma	Intenso	22
+265	Vila Verde	Apartamento	70	2	581000	Muita	Intermediario	29
+266	Vila Verde	Apartamento	60	0	361000	Muita	Intermediario	20
+267	Santa Rosa	Apartamento	90	1	556000	Muita	Baixo	18
+268	Santa Rosa	Casa	110	1	670000	Pouca	Baixo	18
+269	Santa Rosa	Casa	334	4	2040000	Pouca	Intermediario	11
+270	Vila Verde	Casa	106	1	615000	Muita	Intermediario	23
+271	Santa Rosa	Casa	336	3	2020000	Muita	Baixo	19
+272	Vila Verde	Casa	126	2	892000	Pouca	Intermediario	25
+273	Jardim Sol	Casa	110	1	686000	Muita	Intermediario	16
+274	Jardim Sol	Apartamento	90	1	595000	Pouca	Intenso	8
+275	Santa Rosa	Casa	390	4	2350000	Muita	Baixo	25
+276	Jardim Sol	Casa	135	2	804000	Muita	Intenso	25
+277	Vila Verde	Apartamento	80	1	427000	Pouca	Intenso	24
+278	Santa Rosa	Casa	106	1	672000	Muita	Baixo	15
+279	Jardim Sol	Apartamento	90	1	643000	Muita	Intenso	13
+280	Vila Verde	Apartamento	80	1	490000	Muita	Baixo	21
+281	Recanto Mar	Apartamento	120	2	895000	Muita	Intenso	9
+282	Recanto Mar	Apartamento	164	2	1490000	Muita	Baixo	2
+283	Vila Verde	Casa	170	2	1020000	Pouca	Intermediario	24
+284	Jardim Sol	Apartamento	80	1	590000	Pouca	Intenso	11
+285	Jardim Sol	Apartamento	90	1	692000	Muita	Intenso	20
+286	Jardim Sol	Apartamento	70	2	576000	Muita	Intenso	
+287	Vila Verde	Apartamento	70	1	418000	Muita		21
+288	Recanto Mar	Apartamento	390	4	2580000	Nenhuma	Intenso	12
+289	Jardim Sol	Apartamento	130	2	953000	Muita	Intermediario	7
+290	Vila Verde	Casa	110	1	725000	Muita	Intenso	
+291	Vila Verde	Casa	150	1	818000	Muita	Intermediario	21
+292	Vila Verde	Casa	124	1	720000	Nenhuma	Baixo	28
+293	Vila Verde	Casa	130	2	827000	Pouca	Baixo	29
+294	Vila Verde	Casa	128	1	823000	Pouca	Baixo	26
+295	Recanto Mar	Casa	110	1	638000	Muita	Intermediario	14
+296	Recanto Mar	Casa	284	3	1740000	Pouca	Intenso	4
+297	Recanto Mar	Casa	180	2	1160000	Muita	Intermediario	14
+298	Jardim Sol	Apartamento	198	2	1200000	Muita	Intenso	8
+299	Vila Verde	Apartamento	100	1	606000	Nenhuma	Intermediario	
+300	Vila Verde	Casa	134	1	874000	Pouca	Baixo	14
+301	Jardim Sol	Apartamento	80	1	517000	Muita	Intenso	13
+302	Santa Rosa	Casa	160	2	1130000	Muita	Baixo	
+303	Vila Verde	Casa	140	2	904000	Nenhuma	Intermediario	16
+304	Recanto Mar	Casa	170	3	1170000	Muita	Baixo	16
+305	Santa Rosa	Casa	120	1	783000	Muita	Baixo	22
+306	Santa Rosa	Casa	188	2	1230000	Muita	Baixo	15
+307	Jardim Sol	Apartamento	82	1	615000	Muita	Intenso	
+308	Jardim Sol	Apartamento	90	1	589000	Muita	Intenso	11
+309	Vila Verde	Casa	134	1	809000	Muita	Intermediario	18
+310	Vila Verde	Casa	160	2	1130000	Pouca		37
+311	Jardim Sol	Apartamento	130	2	917000	Pouca	Intermediario	12
+312	Jardim Sol	Apartamento	154	1	952000	Pouca		11
+313	Jardim Sol	Apartamento	60	1	442000	Nenhuma	Intermediario	
+314	Santa Rosa	Casa	400	5	2550000	Muita	Baixo	10
+315	Jardim Sol	Apartamento	56	1	440000	Muita	Intenso	6
+316	Vila Verde	Apartamento	58	1	425000	Muita	Intenso	19
+317	Jardim Sol	Apartamento	50	1	430000	Pouca	Intermediario	5
+318	Santa Rosa	Casa	270	3	1970000	Nenhuma	Intermediario	16
+319	Jardim Sol	Apartamento	98	2	802000	Muita	Intenso	18
+320	Vila Verde	Casa	150	2	1110000	Pouca	Intenso	
+321	Jardim Sol	Casa	110	1	672000	Muita	Intenso	1
+322	Vila Verde	Casa	130	1	748000	Muita	Intermediario	15
+323	Vila Verde	Apartamento	100	1	620000	Muita	Baixo	24
+324	Jardim Sol	Apartamento	100	1	714000	Muita	Intenso	12
+325	Santa Rosa	Casa	110	2	785000	Muita	Intermediario	7
+326	Jardim Sol	Casa	106	1	605000	Muita	Intenso	
+327	Jardim Sol	Apartamento	220	2	1590000	Muita	Intermediario	14
+327			220		1590000			
+328	Jardim Sol	Apartamento	50	0	363000	Muita	Intermediario	9
+329	Jardim Sol	Casa	100	1	587000	Muita	Intenso	4
+330	Santa Rosa	Casa	294	3	1850000	Pouca	Intermediario	27
+331	Vila Verde	Apartamento	100	1	644000	Pouca	Baixo	20
+332	Jardim Sol	Apartamento	120	1	859000	Muita	Intenso	5
+333	Recanto Mar	Casa	250	3	1540000	Pouca	Intenso	12
+334	Recanto Mar	Apartamento	200	2	1360000	Pouca	Baixo	
+335	Jardim Sol	Casa	260	3	1620000	Muita	Intermediario	16
+336	Santa Rosa	Casa	392	5	2360000	Pouca	Baixo	10
+337	Recanto Mar	Apartamento	190	2	1360000	Muita	Intenso	9
+338	Santa Rosa	Casa	232	3	1480000	Nenhuma		26
+339	Santa Rosa	Casa	242	3	1360000	Muita		
+340	Jardim Sol	Apartamento	76	1	579000	Muita	Intenso	18
+341	Recanto Mar	Apartamento	110	2	889000	Pouca		
+342	Jardim Sol	Casa	240	3	1480000	Muita	Intermediario	
+343	Jardim Sol	Apartamento	210	3	1830000	Muita	Intenso	8
+344	Santa Rosa	Casa	194	3	1170000	Pouca	Baixo	7
+345	Recanto Mar	Casa	222	3	1270000	Pouca	Intenso	11
+346	Vila Verde	Apartamento	54	1	363000	Muita	Intermediario	21
+347	Vila Verde	Apartamento	80	1	540000	Nenhuma		19
+348	Jardim Sol	Apartamento	100	2	649000	Muita	Intenso	12
+349	Jardim Sol	Casa	138	2	905000	Muita	Intenso	14
+350	Jardim Sol	Apartamento	98	2	651000	Muita	Intenso	
+351	Vila Verde	Apartamento	130	1	781000	Muita	Intenso	27
+352	Vila Verde	Apartamento	80	2	633000	Muita	Intermediario	
+353	Santa Rosa	Casa	240	2	1400000	Pouca	Intermediario	
+354	Santa Rosa	Casa	250	3	1440000	Muita	Baixo	26
+355	Recanto Mar	Casa	235	2	1410000	Nenhuma	Intermediario	6
+356	Jardim Sol	Casa	178	2	1180000	Muita	Intenso	22
+357	Recanto Mar	Apartamento	250	2	2090000	Pouca	Intenso	9
+358	Vila Verde	Casa	152	2	972000	Muita	Baixo	25
+359	Vila Verde	Apartamento	70	1	547000	Muita	Intermediario	21
+360	Santa Rosa	Casa	280	3	1670000	Nenhuma	Baixo	21
+361	Vila Verde	Casa	160	3	1010000	Pouca	Baixo	22
+362	Jardim Sol	Apartamento	48	0	316000	Pouca	Baixo	
+363	Jardim Sol	Apartamento	160	1	985000	Nenhuma	Intermediario	
+364	Jardim Sol	Apartamento	140	1	933000	Muita	Intenso	9
+365	Santa Rosa	Casa	342	4	2100000	Pouca	Intermediario	26
+366	Vila Verde	Casa	112	1	691000	Nenhuma	Intermediario	
+367	Recanto Mar	Apartamento	70	1	555000	Muita	Baixo	
+368	Vila Verde	Casa	152	2	917000	Muita	Intermediario	
+369	Jardim Sol	Casa	112	1	693000	Nenhuma	Intenso	6
+370	Vila Verde	Casa	110	1	994000	Muita	Intermediario	32
+371	Vila Verde	Casa	120	2	879000	Pouca	Intermediario	17
+372	Vila Verde	Casa	112	2	785000	Nenhuma	Intenso	22
+373	Santa Rosa	Casa	414	4	2520000	Pouca	Baixo	18
+374	Recanto Mar	Apartamento	215	3	1800000	Nenhuma	Intermediario	6
+375	Vila Verde	Casa	160	2	1000000	Nenhuma	Intermediario	25
+376	Santa Rosa	Apartamento	90	1	651000	Muita	Baixo	20
+377	Vila Verde	Casa	140	1	806000	Muita	Baixo	29
+378	Jardim Sol	Casa	170	3	1120000	Pouca	Intenso	23
+379	Santa Rosa	Casa	460	6	3040000	Muita	Baixo	
+380	Vila Verde	Casa	150	2	919000	Muita	Baixo	24
+381	Santa Rosa	Casa	226	3	1380000	Pouca	Baixo	32
+382	Jardim Sol	Apartamento	50	1	320000	Pouca	Intenso	17
+383	Santa Rosa	Casa	188	2	1180000	Pouca	Baixo	9
+384	Vila Verde	Casa	110	1	757000	Muita	Intenso	
+385	Vila Verde	Casa	152	2	885000	Pouca	Baixo	29
+386	Vila Verde	Casa	130	1	922000	Muita	Intermediario	13
+387	Jardim Sol	Casa	170	2	1040000	Nenhuma	Intermediario	13
+388	Jardim Sol	Casa	178	2	1270000	Pouca	Baixo	18
+389	Santa Rosa	Casa	240	2	1450000	Muita	Baixo	12
+390	Jardim Sol	Apartamento	76	1	572000	Muita	Baixo	18
+391	Jardim Sol	Casa	140	2	1010000	Pouca	Intenso	
+392	Jardim Sol	Apartamento	186	2	1510000	Pouca		16
+393	Santa Rosa	Casa	100	2	720000	Muita	Baixo	
+394	Vila Verde	Casa	136	1	809000	Muita	Baixo	
+395	Vila Verde	Casa	172	2	1040000	Nenhuma		23
+396	Recanto Mar	Apartamento	76	1	593000	Pouca	Intenso	
+397	Vila Verde	Casa	170	2	1120000	Pouca	Intermediario	31
+398	Recanto Mar	Apartamento	110	1	794000	Muita		3
+399	Recanto Mar	Casa	220	2	1630000	Muita	Intenso	
+400	Jardim Sol	Casa	260	3	1550000	Nenhuma	Intenso	5
+401	Jardim Sol	Apartamento	66	1	537000	Nenhuma	Intenso	6
+402	Vila Verde	Casa	110	1	690000	Muita	Baixo	24
+403	Santa Rosa	Casa	270	3	1680000	Muita		17
+404	Jardim Sol	Casa	170	3	1440000	Muita	Baixo	14
+405	Jardim Sol	Apartamento	110	2	798000	Pouca	Intenso	10
+406	Jardim Sol	Apartamento	150	2	975000	Muita	Baixo	9
+407	Jardim Sol	Casa	130	1	954000	Pouca	Intermediario	35
+408	Vila Verde	Casa	132	1	773000	Muita	Intermediario	16
+409	Jardim Sol	Casa	134	1	804000	Muita	Baixo	8
+410	Vila Verde	Apartamento	70	1	426000	Pouca	Intenso	27
+411	Vila Verde	Apartamento	70	1	496000	Pouca	Baixo	21
+412	Jardim Sol	Apartamento	114	1	840000	Muita		9
+413	Santa Rosa	Casa	360	4	2220000	Muita	Baixo	16
+414	Jardim Sol	Casa	185	2	1130000	Pouca	Baixo	14
+415	Santa Rosa	Casa	276	3	1780000	Muita	Baixo	17
+416	Jardim Sol	Apartamento	190	2	1370000	Muita	Intenso	7
+417	Jardim Sol	Casa	220	2	1370000	Muita		
+418	Recanto Mar	Apartamento	160	2	1270000	Muita	Intermediario	
+419	Recanto Mar	Apartamento	40	0	339000	Muita	Intermediario	6
+420	Santa Rosa	Casa	360	5	2240000	Pouca	Baixo	16
+421	Vila Verde	Casa	110	1	700000	Muita	Intermediario	23
+422	Vila Verde	Casa	122	1	752000	Muita	Intenso	
+423	Vila Verde	Casa	120	2	775000	Muita	Intenso	17
+424	Jardim Sol	Apartamento	130	2	1030000	Muita	Intenso	
+425	Vila Verde	Casa	106	2	785000	Pouca	Baixo	22
+426	Jardim Sol	Apartamento	230	3	1670000	Nenhuma	Intermediario	5
+427	Santa Rosa	Casa	200	2	1190000	Muita	Baixo	17
+428	Jardim Sol	Apartamento	66	0	412000	Muita	Intermediario	5
+429	Recanto Mar	Casa	332	3	2170000	Nenhuma	Intermediario	2
+430	Jardim Sol	Casa	190	3	1270000	Muita	Baixo	12
+431	Jardim Sol	Apartamento	108	2	774000	Pouca	Intenso	13
+432	Recanto Mar	Apartamento	60	1	451000	Muita	Baixo	6
+433	Jardim Sol	Apartamento	50	1	358000	Nenhuma	Intermediario	12
+434	Jardim Sol	Apartamento	90	1	636000	Pouca		
+435	Santa Rosa	Casa	420	5	2500000	Muita	Baixo	14
+436	Recanto Mar	Apartamento	80	2	635000	Muita	Baixo	15
+437	Jardim Sol	Casa	148	2	992000	Pouca	Intermediario	5
+438	Santa Rosa	Casa	225	3	1610000	Pouca	Baixo	
+439	Vila Verde	Apartamento	66	1	423000	Muita	Intermediario	19
+440	Recanto Mar	Apartamento	200	3	1820000	Pouca	Baixo	8
+441	Recanto Mar	Apartamento	76	2	632000	Muita	Intenso	12
+442	Santa Rosa	Casa	204	2	1260000	Muita		23
+443	Santa Rosa	Casa	380	4	2510000	Pouca	Baixo	5
+444	Santa Rosa	Casa	215	2	1380000	Pouca		21
+445	Jardim Sol	Casa	170	2	1140000	Muita	Intermediario	9
+446	Vila Verde	Casa	126	1	799000	Pouca	Intermediario	28
+447	Recanto Mar	Apartamento	48	0	363000	Muita	Intenso	18
+448	Santa Rosa	Apartamento	70	1	465000	Pouca	Baixo	22
+449	Jardim Sol	Apartamento	70	1	544000	Pouca	Intermediario	
+450	Vila Verde	Casa	130	2	807000	Muita	Intenso	31
+451	Vila Verde	Apartamento	56	0	355000	Pouca	Intermediario	27
+452	Vila Verde	Casa	160	2	976000	Pouca	Intenso	22
+453	Recanto Mar	Apartamento	120	1	815000	Nenhuma	Baixo	
+454	Recanto Mar	Casa	335	3	2290000	Muita	Intermediario	
+455	Vila Verde	Casa	120	1	768000	Muita	Baixo	18
+456	Santa Rosa	Casa	248	3	1770000	Muita	Intermediario	
+457	Santa Rosa	Casa	212	2	1340000	Muita	Baixo	18
+458	Jardim Sol	Apartamento	70	1	472000	Muita	Intenso	9
+459	Recanto Mar	Apartamento	80	1	606000	Pouca	Baixo	9
+460	Santa Rosa	Casa	340	3	2080000	Pouca	Baixo	20
+461	Vila Verde	Apartamento	62	1	416000	Pouca	Baixo	
+462	Jardim Sol	Apartamento	118	2	921000	Pouca	Intenso	16
+463	Santa Rosa	Casa	490	5	2790000	Nenhuma	Intermediario	
+464	Jardim Sol	Apartamento	80	1	481000	Muita	Intenso	9
+465	Jardim Sol	Apartamento	140	1	809000	Muita	Baixo	21
+466	Jardim Sol	Casa	192	2	1220000	Muita	Intenso	6
+467	Recanto Mar	Casa	252	3	1520000	Muita	Intermediario	6
+468	Recanto Mar	Casa	180	3	1110000	Pouca	Intenso	1
+469	Vila Verde	Casa	128	2	908000	Muita	Intermediario	20
+470	Jardim Sol	Casa	140	2	1070000	Pouca	Intermediario	8
+471	Santa Rosa	Casa	455	6	296000000	Muita	Baixo	24
+472	Jardim Sol	Casa	210	2	1310000	Muita	Intenso	9
+473	Recanto Mar	Apartamento	320	3	2720000	Muita	Baixo	26
+474	Vila Verde	Casa	120	2	780000	Muita	Intermediario	20
+475	Jardim Sol	Apartamento	90	1	638000	Pouca	Intermediario	10
+476	Jardim Sol	Apartamento	120	2	873000	Pouca	Baixo	9
+477	Jardim Sol	Apartamento	60	1	435000	Nenhuma	Intenso	
+478	Vila Verde	Apartamento	80	1	482000	Muita	Baixo	17
+479	Jardim Sol	Casa	140	2	856000	Muita	Baixo	16
+480	Vila Verde	Casa	130	2	1020000	Muita	Baixo	17
+481	Vila Verde	Casa	115	2	702000	Pouca	Baixo	25
+482	Recanto Mar	Apartamento	90	2	775000	Muita	Intenso	11
+483	Vila Verde	Casa	120	2	780000	Muita	Baixo	23
+484	Jardim Sol	Apartamento	48	1	338000	Muita	Intenso	18
+485	Vila Verde	Casa	130	1	895000	Muita	Intermediario	11
+486	Vila Verde	Casa	130	2	964000	Muita	Intenso	14
+487	Vila Verde	Casa	134	1	849000	Muita	Baixo	25
+488	Jardim Sol	Apartamento	120	2	978000	Muita	Intermediario	8
+489	Vila Verde	Casa	130	1	766000	Muita	Intenso	19
+490	Santa Rosa	Apartamento	92	1	510000	Pouca	Baixo	26
+491	Jardim Sol	Casa	245	3	1460000	Muita	Intenso	19
+492	Recanto Mar	Apartamento	72	1	569000	Pouca	Intermediario	9
+493	Santa Rosa	Casa	166	2	1050000	Muita	Baixo	20
+494	Jardim Sol	Casa	100	2	738000	Muita	Baixo	
+495	Recanto Mar	Apartamento	124	2	999000	Muita		4
+496	Santa Rosa	Casa	490	5	2900000	Muita	Intermediario	
+497	Santa Rosa	Casa	272	3	1810000	Nenhuma	Baixo	17
+498	Recanto Mar	Apartamento	254	2	2070000	Muita	Intermediario	7
+499	Jardim Sol	Casa	160	2	1010000	Muita	Intermediario	16
+500	Vila Verde	Casa	120	1	791000	Pouca		16
+501	Recanto Mar	Casa	256	3	1680000	Muita	Baixo	3
+502	Santa Rosa	Casa	602	6	3300000	Nenhuma	Baixo	
+503	Recanto Mar	Apartamento	70	1	525000	Pouca	Baixo	17
+504	Recanto Mar	Apartamento	250	2	1940000	Pouca	Intenso	12
+505	Jardim Sol	Apartamento	120	1	814000	Muita	Intenso	5
+506	Jardim Sol	Apartamento	82	1	583000	Nenhuma	Intenso	
+507	Jardim Sol	Apartamento	160	2	1170000	Nenhuma	Intenso	10
+508	Jardim Sol	Casa	190	3	1200000	Pouca	Intenso	22
+509	Recanto Mar	Apartamento	364	5	2930000	Pouca	Baixo	10
+510	Jardim Sol	Casa	140	1	884000	Pouca	Intenso	9
+511	Santa Rosa	Casa	125	1	775000	Pouca	Baixo	15
+512	Jardim Sol	Apartamento	70	1	459000	Muita	Intermediario	5
+513	Jardim Sol	Apartamento	74	1	486000	Pouca	Intenso	9
+514	Jardim Sol	Apartamento	140	2	1050000	Muita	Intenso	9
+515	Recanto Mar	Apartamento	120	1	886000	Muita	Baixo	13
+516	Jardim Sol	Casa	252	4	1500000	Pouca	Intermediario	12
+517	Jardim Sol	Casa	286	3	1670000	Muita	Intermediario	14
+518	Santa Rosa	Casa	380	4	2210000	Nenhuma	Baixo	16
+519	Recanto Mar	Apartamento	320	3	2270000	Muita	Baixo	
+520	Recanto Mar	Apartamento	200	2	1410000	Muita	Intenso	13
+521	Vila Verde	Casa	166	3	1030000	Nenhuma	Intermediario	
+522	Jardim Sol	Apartamento	78	1	521000	Muita	Intermediario	6
+523	Vila Verde	Apartamento	60	0	334000	Pouca	Intermediario	24
+524	Jardim Sol	Apartamento	48	0	318000	Muita	Baixo	
+525	Jardim Sol	Casa	192	3	1200000	Muita	Intermediario	5
+526	Vila Verde	Apartamento	62	0	362000	Pouca	Baixo	23
+527	Santa Rosa	Casa	175	3	1020000	Nenhuma	Baixo	
+528	Recanto Mar	Casa	250	3	1730000	Muita	Intermediario	
+529	Santa Rosa	Casa	142	1	808000	Muita	Baixo	8
+530	Jardim Sol	Apartamento	130	2	1020000	Muita	Intermediario	8
+531	Santa Rosa	Casa	232	3	1520000	Muita	Baixo	11
+532	Jardim Sol	Casa	108	1	678000	Muita	Intenso	17
+533	Vila Verde	Casa	144	1	898000	Nenhuma	Intenso	26
+534	Jardim Sol	Apartamento	90	1	671000	Pouca	Baixo	4
+535	Jardim Sol	Apartamento	64	1	452000	Muita	Intermediario	11
+536	Santa Rosa	Casa	274	3	1710000	Pouca	Baixo	14
+537	Recanto Mar	Apartamento	82	2	683000	Muita	Baixo	14
+538	Jardim Sol	Apartamento	66	1	463000	Nenhuma	Intenso	16
+539	Jardim Sol	Apartamento	120	1	763000	Pouca	Intenso	12
+540	Jardim Sol	Apartamento	60	1	369000	Muita	Intenso	9
+541	Jardim Sol	Apartamento	80	1	575000	Muita	Intenso	4
+542	Recanto Mar	Casa	340	3	2300000	Pouca	Intermediario	8
+543	Jardim Sol	Apartamento	70	1	557000	Nenhuma	Intenso	11
+544	Santa Rosa	Casa	310	3	1990000	Nenhuma	Baixo	29
+545	Jardim Sol	Casa	370	4	2720000	Pouca	Intenso	4
+546	Vila Verde	Apartamento	80	1	573000	Pouca	Intermediario	10
+547	Recanto Mar	Apartamento	150	2	1190000	Muita	Baixo	15
+548	Recanto Mar	Apartamento	340	3	2850000	Pouca	Intenso	2
+549	Jardim Sol	Casa	120	1	830000	Muita	Intermediario	9
+550	Jardim Sol	Casa	145	1	910000	Pouca	Intenso	12
+551	Santa Rosa	Casa	160	3	970000	Muita	Baixo	14
+552	Vila Verde	Casa	122	1	735000	Pouca	Intenso	23
+553	Recanto Mar	Casa	220	2	1430000	Pouca	Intermediario	4
+554	Santa Rosa	Casa	230	3	1310000	Pouca	Baixo	10
+555	Jardim Sol	Casa	150	1	895000	Muita	Intenso	20
+556	Recanto Mar	Casa	126	1	768000	Muita	Intermediario	11
+557	Vila Verde	Casa	140	1	869000	Muita	Intenso	10
+558	Recanto Mar	Apartamento	138	1	876000	Pouca	Intermediario	4
+559	Recanto Mar	Apartamento	254	3	1900000	Muita	Baixo	9
+560	Vila Verde	Apartamento	76	1	468000	Pouca	Baixo	
+561	Jardim Sol	Casa	132	1	765000	Muita	Intenso	15
+562	Vila Verde	Casa	180	2	1000000	Pouca	Intermediario	27
+563	Santa Rosa	Casa	270	3	1640000	Pouca	Baixo	
+564	Recanto Mar	Apartamento	260	2	2150000	Pouca	Intermediario	
+565	Vila Verde	Apartamento	90	1	616000	Muita	Intenso	26
+566	Vila Verde	Casa	132	1	800000	Nenhuma	Intermediario	23
+567	Recanto Mar	Casa	154	2	1100000	Muita	Intenso	5
+568	Vila Verde	Apartamento	64	1	403000	Muita	Intermediario	20
+569	Jardim Sol	Apartamento	70	1	493000	Pouca		8
+570	Santa Rosa	Casa	250	3	1440000	Nenhuma	Intermediario	8
+571	Jardim Sol	Apartamento	84	1	601000	Muita	Baixo	13
+572	Jardim Sol	Apartamento	56	1	340000	Muita	Intenso	
+573	Jardim Sol	Apartamento	160	2	1060000	Pouca	Intenso	14
+574	Santa Rosa	Casa	170	3	1000000	Muita	Intermediario	15
+575	Recanto Mar	Casa	310	4	2070000	Muita	Intermediario	1
+576	Vila Verde	Casa	130	1	846000	Muita	Intermediario	28
+576	Vila Verde	Casa	130	1	856000	Muita	Intermediario	28
+577	Jardim Sol	Casa	200	3	1560000	Muita	Baixo	4
+578	Vila Verde	Casa	122	1	786000	Pouca	Intermediario	10
+579	Jardim Sol	Apartamento	90	1	567000	Muita	Intenso	13
+580	Recanto Mar	Casa	200	2	1350000	Muita	Intermediario	5
+581	Recanto Mar	Apartamento	120	1	859000	Muita		9
+582	Jardim Sol	Apartamento	92	1	610000	Pouca	Baixo	17
+583	Jardim Sol	Apartamento	220	2	1690000	Pouca	Baixo	8
+584	Vila Verde	Apartamento	70	1	546000	Muita	Intenso	24
+585	Jardim Sol	Casa	120	1	759000	Muita	Intenso	
+586	Vila Verde	Casa	114	1	743000	Nenhuma	Intermediario	32
+587	Vila Verde	Casa	120	2	754000	Pouca	Intermediario	34
+588	Santa Rosa	Casa	220	3	1650000	Muita	Baixo	11
+589	Santa Rosa	Casa	520	5	2900000	Nenhuma	Baixo	8
+590	Jardim Sol	Casa	236	3	1480000	Muita	Intenso	5
+591	Jardim Sol	Apartamento	241	3	1610000	Muita	Intermediario	15
+592	Santa Rosa	Casa	230	2	1770000	Pouca	Baixo	12
+593	Vila Verde	Apartamento	100	1	634000	Muita	Baixo	
+594	Vila Verde	Casa	130	1	791000	Pouca	Baixo	20
+595	Vila Verde	Casa	140	1	857000	Muita	Baixo	25
+596	Santa Rosa	Casa	170	3	998000	Nenhuma	Baixo	11
+597	Jardim Sol	Apartamento	108	2	850000	Pouca	Intenso	19
+598	Vila Verde	Casa	166	2	1120000	Pouca	Intermediario	24
+599	Vila Verde	Casa	134	1	864000	Nenhuma	Baixo	22
+600	Recanto Mar	Apartamento	180	3	1500000	Nenhuma	Baixo	9
+601	Recanto Mar	Apartamento	300	4	2400000	Pouca	Intermediario	15
+602	Jardim Sol	Apartamento	70	1	403000	Pouca	Baixo	21
+603	Jardim Sol	Apartamento	92	1	608000	Pouca	Intenso	3
+604	Santa Rosa	Casa	170	3	1010000	Pouca	Baixo	15
+605	Vila Verde	Apartamento	90	1	577000	Nenhuma	Intenso	23
+606	Recanto Mar	Apartamento	150	2	1070000	Muita	Intermediario	10
+607	Recanto Mar	Apartamento	270	2	2210000	Nenhuma		12
+608	Jardim Sol	Casa	120	1	703000	Muita	Intenso	9
+609	Jardim Sol	Apartamento	90	1	604000	Nenhuma	Baixo	15
+610	Jardim Sol	Casa	112	1	702000	Pouca		3
+611	Jardim Sol	Apartamento	48	1	342000	Muita	Intenso	10
+612	Santa Rosa	Casa	150	2	1070000	Nenhuma	Intermediario	10
+613	Jardim Sol	Apartamento	86	1	542000	Muita	Intenso	
+614	Jardim Sol	Apartamento	110	1	641000	Pouca	Baixo	15
+615	Jardim Sol	Apartamento	60	0	452000	Muita	Intermediario	7
+616	Santa Rosa	Casa	520	6	3110000	Muita	Baixo	16
+617	Recanto Mar	Casa	150	2	1280000	Pouca	Baixo	10
+618	Recanto Mar	Casa	170	2	1340000	Pouca		4
+619	Recanto Mar	Casa	230	2	1610000	Muita	Intermediario	1
+620	Vila Verde	Casa	130	2	754000	Pouca	Intenso	21
+621	Vila Verde	Casa	148	2	858000	Pouca	Intermediario	31
+622	Recanto Mar	Apartamento	130	2	1040000	Pouca	Baixo	20
+623	Vila Verde	Apartamento	80	1	529000	Pouca	Intermediario	16
+624	Recanto Mar	Apartamento	100	2	864000	Pouca	Intenso	20
+625	Jardim Sol	Apartamento	50	0	312000	Nenhuma	Intenso	
+626	Recanto Mar	Casa	192	3	1350000	Pouca	Baixo	18
+627	Vila Verde	Casa	160	2	1090000	Pouca	Baixo	28
+628	Vila Verde	Apartamento	70	1	560000	Muita		34
+629	Jardim Sol	Apartamento	80	1	571000	Muita	Intenso	14
+630	Santa Rosa	Casa	455	6	2710000	Muita	Baixo	
+631	Recanto Mar	Casa	118	2	789000	Muita	Intermediario	8
+632	Jardim Sol	Apartamento	174	3	1410000	Muita	Baixo	10
+633	Jardim Sol	Apartamento	100	1	758000	Pouca		
+634	Santa Rosa	Casa	138	2	996000	Muita	Baixo	23
+635	Vila Verde	Casa	120	1	788000	Pouca	Intermediario	15
+636	Jardim Sol	Apartamento	76	1	535000	Muita	Intenso	15
+637	Santa Rosa	Casa	218	2	1410000	Pouca	Baixo	12
+638	Recanto Mar	Casa	200	2	1410000	Muita	Baixo	12
+639	Recanto Mar	Apartamento	344	4	2480000	Muita	Baixo	
+640	Jardim Sol	Apartamento	100	2	622000	Pouca	Intenso	9
+641	Recanto Mar	Apartamento	124	1	894000	Pouca	Intermediario	10
+642	Jardim Sol	Apartamento	86	1	552000	Muita	Intenso	7
+643	Vila Verde	Casa	174	2	1360000	Pouca	Intenso	16
+644	Recanto Mar	Apartamento	120	2	861000	Muita	Intenso	6
+645	Jardim Sol	Casa	106	1	638000	Muita	Intenso	
+646	Santa Rosa	Casa	150	1	910000	Muita	Baixo	
+647	Santa Rosa	Casa	450	5	2640000	Nenhuma	Baixo	22
+648	Recanto Mar	Casa	200	3	1230000	Muita	Baixo	2
+649	Jardim Sol	Casa	122	1	766000	Pouca	Baixo	12
+650	Vila Verde	Casa	170	2	997000	Pouca	Baixo	22
+651	Vila Verde	Casa	158	2	984000	Pouca	Intermediario	19
+652	Recanto Mar	Apartamento	142	2	1030000	Muita	Intenso	15
+653	Recanto Mar	Casa	235	3	1610000	Pouca	Intenso	4
+654	Santa Rosa	Casa	120	1	686000	Muita	Baixo	15
+655	Jardim Sol	Apartamento	130	2	958000	Pouca	Intermediario	13
+656	Santa Rosa	Casa	415	5	2940000	Muita	Baixo	10
+657	Vila Verde	Casa	180	2	1120000	Muita	Intenso	19
+658	Recanto Mar	Casa	180	2	1180000	Muita	Baixo	7
+659	Jardim Sol	Apartamento	140	2	1060000	Pouca	Baixo	
+660	Vila Verde	Casa	184	2	1130000	Pouca	Baixo	17
+661	Jardim Sol	Casa	240	3	1600000	Muita	Intermediario	12
+662	Recanto Mar	Apartamento	90	2	824000	Pouca	Baixo	24
+663	Recanto Mar	Casa	245	3	1580000	Pouca	Baixo	
+664	Jardim Sol	Apartamento	130	1	862000	Muita	Baixo	19
+665	Jardim Sol	Apartamento	156	2	1200000	Muita	Baixo	7
+666	Jardim Sol	Apartamento	170	2	1410000	Muita	Intermediario	6
+667	Jardim Sol	Apartamento	94	1	614000	Muita	Intermediario	17
+668	Santa Rosa	Casa	340	4	2390000	Pouca	Baixo	18
+669	Jardim Sol	Apartamento	70	1	448000	Muita		
+670	Jardim Sol	Casa	174	3	1490000	Nenhuma	Intermediario	9
+671	Santa Rosa	Casa	294	3	2070000	Muita	Baixo	10
+672	Jardim Sol	Apartamento	70	1	511000	Pouca	Intermediario	9
+673	Vila Verde	Casa	112	2	869000	Nenhuma	Intermediario	26
+674	Santa Rosa	Casa	180	3	1210000	Pouca	Baixo	24
+675	Vila Verde	Apartamento	70	1	410000	Pouca	Baixo	24
+676	Vila Verde	Casa	110	1	635000	Muita	Intenso	13
+677	Vila Verde	Casa	140	2	914000	Muita	Baixo	23
+678	Jardim Sol	Casa	142	1	863000	Nenhuma	Intermediario	14
+679	Jardim Sol	Casa	122	1	780000	Pouca	Intermediario	9
+680	Jardim Sol	Casa	280	3	1780000	Muita	Intenso	8
